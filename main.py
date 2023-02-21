@@ -1,4 +1,4 @@
-#Todo: Add a file upload button
+#Todo: Add a file upload button. Chage GUI to english.
 
 import mido
 from mido import MidiFile, MidiTrack, Message
